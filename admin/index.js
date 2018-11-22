@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import list from'test'
 class student extend react.component{
 	function render(argument) {
@@ -6,3 +7,6 @@ class student extend react.component{
 }
 
 ///// this is branch aaa
+=======
+this is empty project
+>>>>>>> branchB
